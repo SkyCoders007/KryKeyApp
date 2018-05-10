@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/sonali/Documents/Sonali_Work_Project/MXI/Krykey/May/2.5.8_old_bug_solved_25_05_17/KryKeyApp/vitamio/src/main/assets"/><source path="/home/sonali/Documents/Sonali_Work_Project/MXI/Krykey/May/2.5.8_old_bug_solved_25_05_17/KryKeyApp/vitamio/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/sonali/Documents/Sonali_Work_Project/MXI/Krykey/May/2.5.8_old_bug_solved_25_05_17/KryKeyApp/vitamio/src/release/assets"/></dataSet></merger>

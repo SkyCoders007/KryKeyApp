@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/home/sonali/Documents/MXI/Krykey/May/2.5.8_old_bug_solved_25_05_17/KryKeyApp/vitamio/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/sonali/Documents/MXI/Krykey/May/2.5.8_old_bug_solved_25_05_17/KryKeyApp/vitamio/src/androidTest/assets"/><source path="/home/sonali/Documents/MXI/Krykey/May/2.5.8_old_bug_solved_25_05_17/KryKeyApp/vitamio/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>
